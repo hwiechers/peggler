@@ -1,4 +1,16 @@
 [package]
 name = "peggler"
+description = "Parser generation using a PEG-like syntax via macros"
+
+documenation = "https://github.com/hwiechers/peggler/blob/master/README.md"
+homepage = "https://github.com/hwiechers/peggler/"
+repository = "https://github.com/hwiechers/peggler/"
+
+readme = "README.md"
+
+keywords = "parser"
+
+license = "MIT"
+
 version = "0.1.0"
 authors = ["Henri Wiechers <henri@wiechers.me>"]
